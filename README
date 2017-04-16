@@ -1,0 +1,5 @@
+- enter zip code and click search to retrieve a list of restaurants in the zip code
+- this uses google's places api to retrieve information
+- scrolling to the bottom triggers fetch of more data as made available by api
+- long clicking/holding the cell will cause it to save ot the favorites list 
+  (saved into shared preferences so that it will persist across life cycle changes)

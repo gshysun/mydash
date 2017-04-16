@@ -1,0 +1,19 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fillViewport="true"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@android:color/black"
+    >
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rvRestaurantList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fastScrollEnabled="false"
+        android:divider="@drawable/restaurant_list_divider"
+        android:background="@color/colorPrimary"
+        />
+
+</RelativeLayout>

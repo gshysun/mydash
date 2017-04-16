@@ -1,0 +1,20 @@
+<!--https://github.com/roughike/BottomBar-->
+<tabs>
+    <tab
+        id="@+id/search"
+        icon="@drawable/ic_search"
+        title="Search"
+        inActiveColor="#FFFFFF"
+        activeColor="#FFFFFF"
+        barColorWhenSelected="#000000"
+        />
+    <tab
+        id="@+id/favs"
+        icon="@drawable/ic_fstar"
+        title="Favorites"
+        inActiveColor="#FFFFFF"
+        activeColor="#FFFFFF"
+        barColorWhenSelected="#000000"
+        />
+
+</tabs>
