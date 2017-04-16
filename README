@@ -3,3 +3,6 @@
 - scrolling to the bottom triggers fetch of more data as made available by api
 - long clicking/holding the cell will cause it to save ot the favorites list 
   (saved into shared preferences so that it will persist across life cycle changes)
+
+
+![alt text](https://github.com/gshysun/mydash/tree/master/screenshots/screencapture.gif "Screen Capture")
